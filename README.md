@@ -481,5 +481,4 @@ International Journal of Science, Arjun RK,Pooja Reddy,Shama,M.Yamuna,Technology
 
 
 ### Our Team
-
-Pilla Vaishno Mohan, Mateen Jamal, Anant Tiwari and Ayush Sharma
+Yash Tyagi, Abhishek Rathi, Ayush Anand, Bikram Narayan Dhanraj
